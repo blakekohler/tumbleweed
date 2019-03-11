@@ -1,19 +1,17 @@
 import React, { Component } from 'react';
-import './App.css';
+import './Gear.css';
 
-
-class App extends Component {
+class Gear extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
+      <div className="Gear">
+        <header className="Gear-header">
          <h1 className="welcome">Tumbleweed</h1>
         </header>
-      
+        
       </div>
-    
     );
   }
 }
 
-export default App;
+export default Gear;
