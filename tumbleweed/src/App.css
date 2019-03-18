@@ -6,6 +6,12 @@
   pointer-events: none;
 }
 
+
+
+.onboard-image{
+  width: 300px;
+  height: 300px;
+}
 .welcome{
   color: #ECE9E6;
 }
