@@ -20,7 +20,10 @@
   padding: 5px;
   padding-left: 30px;
 }
-
+.GearBlock{
+  display: flex;
+  flex: 1;
+}
 
 .Gear{
   padding: 20px;
