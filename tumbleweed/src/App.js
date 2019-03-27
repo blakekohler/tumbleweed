@@ -22,17 +22,19 @@ class App extends Component {
           <div className="CompanyText">This is the decription of the company.</div>
            </div>
            <div className="GearBlock">
+           
+           <img className="onboard-image" src="https://media.glassdoor.com/l/e8/13/4e/a2/first-day-desk-set-up.jpg"/>
            <div className="CompanyName">
            Twitter
            </div>
-           <img className="onboard-image" src="https://media.glassdoor.com/l/e8/13/4e/a2/first-day-desk-set-up.jpg"/>
           <div className="CompanyText">This is the decription of the company.</div>
            </div>
            <div className="GearBlock">
+           
+           <img className="onboard-image" src="https://media.glassdoor.com/l/e8/13/4e/a2/first-day-desk-set-up.jpg"/>
            <div className="CompanyName">
            Glitch
            </div>
-           <img className="onboard-image" src="https://media.glassdoor.com/l/e8/13/4e/a2/first-day-desk-set-up.jpg"/>
           <div className="CompanyText">This is the decription of the company.</div>
            </div>
         </div></div>

@@ -11,6 +11,9 @@
 .onboard-image{
   width: 300px;
   height: 300px;
+  border-radius: 0px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
 }
 .welcome{
   color: #ECE9E6;
@@ -20,15 +23,24 @@
   padding: 5px;
   padding-left: 30px;
 }
-.GearBlock{
-  width: 26%;
+.GearBlock {
+  width: 300px;
   background-color: #e9e9e9;
   margin: 20px;
   text-align: center;
-  padding-left: 11px;
-  padding-right: 11px;
-  border-radius: 10px;
+  padding-left: 0px;
+  border-radius: 25px;
   padding-bottom: 10px;
+  border: 3px solid #1a3e55e8;
+}
+.CompanyName {
+  width: 100%;
+  background-color: #1a3e55;
+  color: white;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-top: -4px;
+  margin-bottom: 10px;
 }
 .Block{
   display: flex;
