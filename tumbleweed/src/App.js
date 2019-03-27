@@ -23,7 +23,7 @@ class App extends Component {
            </div>
            <div className="GearBlock">
            
-           <img className="onboard-image" src="https://media.glassdoor.com/l/e8/13/4e/a2/first-day-desk-set-up.jpg"/>
+           <img className="onboard-image" src="https://www.crandallassociates.com/wp-content/uploads/2017/01/First-day-welcome.jpg"/>
            <div className="CompanyName">
            Twitter
            </div>
@@ -31,7 +31,7 @@ class App extends Component {
            </div>
            <div className="GearBlock">
            
-           <img className="onboard-image" src="https://media.glassdoor.com/l/e8/13/4e/a2/first-day-desk-set-up.jpg"/>
+           <img className="onboard-image" src="https://media.glassdoor.com/l/5e/a5/69/2a/first-day-on-the-job-what-a-welcome.jpg"/>
            <div className="CompanyName">
            Glitch
            </div>
