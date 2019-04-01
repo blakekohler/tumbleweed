@@ -13,3 +13,8 @@ We hope to be able to have build a checklist for onboarding to help guide groups
 
 Started work on styling the front page and looking into resources. Found a group of resources here:
 https://github.com/92bondstreet/awesome-onboarding
+
+
+#Tech Stack
+- React 
+- TBD
