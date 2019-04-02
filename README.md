@@ -15,6 +15,9 @@ Started work on styling the front page and looking into resources. Found a group
 https://github.com/92bondstreet/awesome-onboarding
 
 
+Some more onboarding resources:
+https://business.linkedin.com/talent-solutions/blog/2015/07/extreme-onboarding-how-to-wow-your-new-hires-rather-than-numb-them
+
 #Tech Stack
 - React 
 - TBD
