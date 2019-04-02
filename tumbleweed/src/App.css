@@ -33,10 +33,11 @@
   padding-bottom: 10px;
   border: 3px solid #1a3e55e8;
   cursor: pointer;
+  transition: all .2s ease-in-out;
 }
 
 .GearBlock:hover{
-width: 310px;
+transform: scale(1.1);
 }
 .CompanyName {
   width: 100%;
