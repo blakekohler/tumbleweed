@@ -41,10 +41,11 @@ class App extends Component {
         <div className="Gear">
            <h1>How do other companies do onboarding?</h1>
            <div className="GearBlock">
+          
+           <img className="onboard-image" src="https://media.glassdoor.com/l/e8/13/4e/a2/first-day-desk-set-up.jpg"/>
            <div className="CompanyName">
            Twitter
            </div>
-           <img className="onboard-image" src="https://media.glassdoor.com/l/e8/13/4e/a2/first-day-desk-set-up.jpg"/>
           <div className="CompanyText">This is the decription of the company.</div>
            </div>
         </div>
