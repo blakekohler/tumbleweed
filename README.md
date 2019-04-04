@@ -6,6 +6,7 @@ We're hoping to share the following:
 -   Salary history
 -   Equipment and new equipment request process
 -   Developer growth process 
+-   Future onboarding ideas
 
 
 We hope to be able to have build a checklist for onboarding to help guide groups through doing onboarding well. 
