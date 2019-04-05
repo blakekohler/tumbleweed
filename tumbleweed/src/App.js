@@ -19,7 +19,7 @@ class App extends Component {
            <div className="CompanyName">
            Facebook
            </div>
-          <div className="CompanyText">This is the decription of the company.</div>
+          <div className="CompanyText">This is the decription of the company. This is the decription of the company. This is the decription of the company.This is the decription of the company.</div>
            </div>
            <div className="GearBlock">
            
