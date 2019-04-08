@@ -7,6 +7,7 @@ We're hoping to share the following:
 -   Equipment and new equipment request process
 -   Developer growth process 
 -   Future onboarding ideas
+-   Company, Department and Team onboarding with a way to tell the difference between each step
 
 
 We hope to be able to have build a checklist for onboarding to help guide groups through doing onboarding well. 
